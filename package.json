@@ -1,0 +1,21 @@
+{
+  "name": "@hyperdivision/snapshot-spawn",
+  "version": "0.0.0",
+  "description": "Spawn a process from a storage snapshot and continue to snapshot at regular intervals",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@hyperdivision/s3-snapshot": "^1.0.0",
+    "s3-storage": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyperdivision/snapshot-spawn.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/hyperdivision/snapshot-spawn/issues"
+  },
+  "homepage": "https://github.com/hyperdivision/snapshot-spawn"
+}
