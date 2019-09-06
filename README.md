@@ -1,4 +1,6 @@
-# snapshot-spawn
+# `snapshot-spawn`
+
+[![Build Status](https://travis-ci.org/hyperdivision/snapshot-spawn.svg?branch=master)](https://travis-ci.org/hyperdivision/snapshot-spawn)
 
 Spawn a process from a storage snapshot and continue to snapshot at regular intervals
 

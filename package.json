@@ -1,10 +1,10 @@
 {
-  "name": "@hyperdivision/snapshot-spawn",
+  "name": "snapshot-spawn",
   "version": "0.0.0",
   "description": "Spawn a process from a storage snapshot and continue to snapshot at regular intervals",
   "main": "index.js",
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "dependencies": {},
   "devDependencies": {
